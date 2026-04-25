@@ -2,8 +2,6 @@
 
 ## An E-commerce Store For Glasses
 
-#### - by Saurabh Kumar
-
 ## Demo
 
 [Lens Store](https://lenstore.vercel.app/)
@@ -79,5 +77,5 @@ Start the server
 
 <br>
 
-<a href="https://www.twitter.com/1SAURABHKUMAR1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="93px"/></a>
-<a href="https://www.linkedin.com/in/1saurabhkumar1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/></a>
+
+<a href="https://www.linkedin.com/in/shrivastavsoumyaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/></a>
